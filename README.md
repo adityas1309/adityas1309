@@ -75,7 +75,7 @@
 ## 🏆 Featured Projects
 
 ### 🩸 RaktConnect - AI Blood Donation Platform
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-plastic)](https://raktconnect.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-plastic)](https://raktconnect.onrender.com/)
 [![GitHub](https://img.shields.io/badge/Source-Code-black?style=for-the-plastic&logo=github)](https://github.com/adityas1309/RaktConnect)
 
 - Built with **React.js + Node.js + MongoDB** stack
@@ -84,8 +84,8 @@
 - Real-time alert system for emergency needs 🚨
 
 ### 📚 EduFi-Scholar - Blockchain Education Funding
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-plastic)](https://edufischolar.xyz)
-[![GitHub](https://img.shields.io/badge/Source-Code-black?style=for-the-plastic&logo=github)](https://github.com/adityas1309/EduFi-Scholar)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-plastic)](https://edu-fi-scholar.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source-Code-black?style=for-the-plastic&logo=github)](https://github.com/adityas1309/EduFi_Scholar)
 
 - Developed using **Solidity + Web3.js + React**
 - Transparent scholarship distribution via smart contracts 🔒
