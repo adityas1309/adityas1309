@@ -72,38 +72,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-### 🩸 RaktConnect - AI Blood Donation Platform
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-plastic)](https://raktconnect.onrender.com/)
-[![GitHub](https://img.shields.io/badge/Source-Code-black?style=for-the-plastic&logo=github)](https://github.com/adityas1309/RaktConnect)
-
-- Built with **React.js + Node.js + MongoDB** stack
-- Integrated AI for donor matching & demand forecasting 📈
-- Reduced blood shortage risks by **30%** through predictive analytics
-- Real-time alert system for emergency needs 🚨
-
-### 📚 EduFi-Scholar - Blockchain Education Funding
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-plastic)](https://edu-fi-scholar.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source-Code-black?style=for-the-plastic&logo=github)](https://github.com/adityas1309/EduFi_Scholar)
-
-- Developed using **Solidity + Web3.js + React**
-- Transparent scholarship distribution via smart contracts 🔒
-- Global application system with real-time tracking 🌍
-- Milestone-based fund disbursement system 💸
-
----
-
-## 📚 Education
-
-- **B.Tech in Information Technology**  
-  Asansol Engineering College | CGPA: 7.24 | 2023-2027
-
-- **XII (CBSE)**  
-  D.A.V Public School | 72.5% | 2023
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
